@@ -1,0 +1,73 @@
+/* aboutus1.css */
+#ab{
+    background-color: #e4bf97;
+}
+.about-us-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(45deg, #ffbe5b, #f9f9f9, #fab860, #ffffff, #f19532);
+    background-size: 400% 400%;
+    animation: gradientAnimation 15s infinite;
+    position: relative;
+    
+}
+
+.about-us-container::after {
+    content: "";
+    display: block;
+    width: 50px;
+    height: 3px;
+    background-color: #f8ece0;
+    margin: 20px auto;
+}
+
+.about-us-container:hover h1,
+.about-us-container:hover::after {
+    color: #805926; /* Change the color on hover */
+    
+}
+
+@keyframes gradientAnimation {
+    0% {
+        background-position: 0% 0%;
+    }
+    100% {
+        background-position: 100% 100%;
+    }
+}
+
+h1 {
+    color: #503e2c;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: color 0.3s; /* Add a smooth transition effect */
+}
+
+p {
+    line-height: 1.6;
+    color: #555555;
+    margin-bottom: 15px;
+}
+
+/* Add a subtle border to paragraphs */
+p:not(:last-child) {
+    border-bottom: 1px solid #fffdfd;
+    padding-bottom: 15px;
+}
+
+/* Style the paragraph that introduces the mission */
+p:nth-child(2) {
+    font-style: italic;
+}
+
+/* Center the button */
+.text-center {
+    text-align: center;
+}
+
+/* Add more styles as needed */

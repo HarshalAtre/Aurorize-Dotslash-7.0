@@ -1,0 +1,40 @@
+.banner2{
+    margin: 40px 0;
+}
+#banner2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
+    margin-top: 50px;
+    margin-bottom: 35px;
+
+}
+#banner2 h4{
+    color: #ffffff;
+    font-size: 20px;
+}
+#banner2 h2{
+    color: #ffffff;
+    font-size: 40px;
+    padding: 10px 0;
+}
+#banner2 button{
+    background-color: rgb(255, 255, 255);
+    color:hsl(0, 0%, 0%);
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+    font-weight: 700;
+    cursor: pointer;
+    border:none;
+}
+#banner2 button:hover{
+    background-color: #2abc10;
+    color: #ffffff;
+    font-weight: bolder;
+}

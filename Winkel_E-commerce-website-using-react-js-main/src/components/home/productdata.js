@@ -1,0 +1,222 @@
+export const products=[
+    {
+        "id": 1,
+        "title": "Haridra",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://www.ayurvedakendra.in/wp-content/uploads/2023/01/Haridra-768x512-1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Shirish,Mimosa Tree",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://lakshmicreationstv.com/wp-content/uploads/2021/05/mimosa-pudica.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Vaasa,Malabar Nut",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://m.media-amazon.com/images/I/51p+xdVVquL._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Anantmool,Sarasprilla",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://www.6rasa.com/cdn/shop/articles/Sugandhi.jpg?v=1664104576&width=1500"
+      },
+      {
+        "id": 5,
+        "title": "Dalchini,Cinnamon",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://www.herbazest.com/imgs/4/2/b/81361/cinnamon.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Bharangi,Clerodandrum",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Clerodendrum_serratum.jpg/300px-Clerodendrum_serratum.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Kantkari,Yellow-berried nightshade",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://truelyf.com/wp-content/uploads/2020/08/Kandan-KathiriPowder-1.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Mulethi,Licorice",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://vedix.com/cdn/shop/articles/ayurvedic-herb-liquorice-root_1024x400.jpg?v=1650546045"
+      },
+      {
+        "id": 9,
+        "title": "Tulsi,Tulsi",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://vedix.com/cdn/shop/articles/Tulasi-Plant_1024x400.jpg?v=1642081467"
+      },
+      {
+        "id": 10,
+        "title": "Shweta Punarnava,Trianthema Portulacastrum",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://www.ayurvedakendra.in/wp-content/uploads/2023/01/Haridra-768x512-1.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Atibala,Abutilon Indicum",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://housing.com/news/wp-content/uploads/2022/10/Trianthema-portulacastrum1.png"
+      },
+      {
+        "id": 12,
+        "title": "Gur,Saccharum officinarum",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://www.lifeasible.com/wp-content/themes/v1/images/Saccharum-officinarum-L-transformation-picture-1.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Kali Maricha,Piper Nigrum",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://rukminim2.flixcart.com/image/850/1000/k6ci8i80/plant-seed/n/q/h/50-premium-extra-rich-black-pepper-piper-nigrum-seeds-50-gram-original-imafzzmfzgspggpk.jpeg?q=90&crop=false"
+      },
+      {
+        "id": 14,
+        "title": "Jaiphal,Myristica fragrans",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://www.cultivatornatural.com/wp-content/uploads/slider/cache/48fe9dc8440929d7c766d68991ef5fc6/Myristica-fragrans-Nutmeg-Seeds-6.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Babool Chhal,Acacia Nilotica",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/30/Babool_%28Acacia_nilotica%29_flowers_at_Hodal_W_IMG_1163.jpg"
+      },
+      {
+        "id": 16,
+        "title": "Kutha,Saussurea lappa",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://www.pioneerherbal.com/wp-content/uploads/2019/06/Saussurea-Lappa.jpg"
+      },
+      {
+        "id": 17,
+        "title": "Brahmi,Bacopa monnieri",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://5.imimg.com/data5/BI/GE/OS/SELLER-2072454/bacopa-monnieri.png"
+      },
+      {
+        "id": 18,
+        "title": "Vacha,Acorus calamus",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://d2seqvvyy3b8p2.cloudfront.net/92fba079f99c6669c7864ffc142523b7.jpg"
+      },
+      {
+        "id": 19,
+        "title": "Shankhpushpi,convolvulus pluricaulis",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://m.media-amazon.com/images/I/71cqU+vqmSL.jpg"
+      },
+      {
+        "id": 20,
+        "title": "Badi Harad,Terminelia chebula",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 0,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "category": "smartphones",
+        "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2020/9/NS/MW/FO/7582553/terminalia-chebula-seeds-haritaki-kadukai-.jpg"
+      }
+]
